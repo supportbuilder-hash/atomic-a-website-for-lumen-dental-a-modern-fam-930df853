@@ -1,0 +1,44 @@
+{
+  "brand": {
+    "name": "Lumen Dental",
+    "tagline": "Modern family dentistry, cared for with a gentle touch",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "services",
+      "href": "/services"
+    },
+    {
+      "key": "team",
+      "href": "/team"
+    },
+    {
+      "key": "about",
+      "href": "/about"
+    },
+    {
+      "key": "contact",
+      "href": "/contact"
+    },
+    {
+      "key": "reviews",
+      "href": "/reviews"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "/contact"
+  },
+  "footerColumns": [],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 3
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}

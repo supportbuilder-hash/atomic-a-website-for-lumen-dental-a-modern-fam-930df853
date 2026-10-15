@@ -1,0 +1,414 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "team": "Team",
+    "about": "About",
+    "contact": "Contact",
+    "reviews": "Reviews"
+  },
+  "cta": {
+    "primary": "Book Appointment"
+  },
+  "footer": {
+    "tagline": "Modern family dentistry, cared for with a gentle touch",
+    "rights": "All rights reserved."
+  },
+  "reviewsPage": {
+    "hero": {
+      "eyebrow": "Patient Stories",
+      "title": "Reviews from",
+      "titleAccent": "our Lumen family",
+      "subtitle": "Real feedback from patients who trusted us with their smiles, from first cleanings to full smile makeovers.",
+      "ratingLine": "{rating} average from {count} verified patients"
+    },
+    "ratingsSummary": {
+      "eyebrow": "Overall Rating",
+      "summary": "Based on {count} verified reviews collected after every visit, across cleanings, cosmetic work, and family care.",
+      "starsLabel": "{stars} star"
+    },
+    "testimonials": {
+      "eyebrow": "What Patients Say",
+      "title": "Kind words from every chair in the office",
+      "subtitle": "From nervous first visits to confident new smiles, here is how our patients describe their time with us.",
+      "items": [
+        {
+          "quote": "I used to dread dentist visits and now I actually look forward to them. The team explains everything and never rushes you.",
+          "name": "Maria Gonzalez",
+          "service": "Routine Cleaning",
+          "rating": 5,
+          "date": "March 2024"
+        },
+        {
+          "quote": "My son has sensory sensitivities and the hygienist was so patient with him. First cleaning without a single tear.",
+          "name": "David Chen",
+          "service": "Pediatric Care",
+          "rating": 5,
+          "date": "January 2024"
+        },
+        {
+          "quote": "Got my veneers done here and the result looks completely natural. Dr. Patel walked me through every option first.",
+          "name": "Amelia Novak",
+          "service": "Cosmetic Veneers",
+          "rating": 5,
+          "date": "November 2023"
+        },
+        {
+          "quote": "Needed an emergency root canal on a Saturday and they fit me in within two hours. Pain-free and genuinely kind staff.",
+          "name": "James O'Rourke",
+          "service": "Emergency Root Canal",
+          "rating": 5,
+          "date": "February 2024"
+        },
+        {
+          "quote": "The online booking is so easy and reminders are helpful. Appointments actually start on time, which is rare.",
+          "name": "Priya Nair",
+          "service": "Teeth Whitening",
+          "rating": 4,
+          "date": "December 2023"
+        },
+        {
+          "quote": "Invisalign consult was thorough with no pressure to upsell. Eighteen months later my smile is exactly what we planned.",
+          "name": "Tomas Alvarez",
+          "service": "Invisalign",
+          "rating": 5,
+          "date": "April 2024"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to see why patients keep coming back?",
+      "subtitle": "Book your visit online in under two minutes and join hundreds of happy smiles at Lumen Dental.",
+      "primaryButton": "Book an appointment",
+      "secondaryButton": "Ask us a question"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Modern Family Dentistry",
+      "title": "Dental Care That Feels Like Daylight",
+      "subtitle": "Lumen Dental blends gentle, modern care with a calm, welcoming space for every member of your family — from first teeth to golden years.",
+      "cta": "Book an Appointment",
+      "secondaryCta": "Explore Services"
+    },
+    "services": {
+      "eyebrow": "What We Offer",
+      "title": "Comprehensive Care, One Gentle Visit at a Time",
+      "subtitle": "From routine checkups to complete smile makeovers, our team covers every stage of your dental health.",
+      "items": {
+        "0": {
+          "title": "General Checkups & Cleanings",
+          "description": "Thorough exams and gentle cleanings to keep your smile healthy year-round."
+        },
+        "1": {
+          "title": "Cosmetic Dentistry",
+          "description": "Whitening, veneers, and bonding designed to give you a smile you love to share."
+        },
+        "2": {
+          "title": "Orthodontics",
+          "description": "Traditional braces and clear aligners for confident, aligned smiles at any age."
+        },
+        "3": {
+          "title": "Pediatric Dentistry",
+          "description": "Friendly, patient care that helps kids build positive habits from the start."
+        },
+        "4": {
+          "title": "Restorative Care",
+          "description": "Crowns, bridges, and implants that restore function and natural-looking form."
+        },
+        "5": {
+          "title": "Emergency Dentistry",
+          "description": "Prompt, caring attention when unexpected pain or injury can't wait."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "15k+",
+        "label": "Happy Patients"
+      },
+      "1": {
+        "value": "4.9/5",
+        "label": "Average Rating"
+      },
+      "2": {
+        "value": "20+",
+        "label": "Years Serving Families"
+      },
+      "3": {
+        "value": "98%",
+        "label": "Patient Comfort Score"
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Patient Stories",
+      "title": "Smiles We're Proud to Have Helped",
+      "subtitle": "Hear from the families and individuals who trust Lumen Dental with their care.",
+      "items": {
+        "0": {
+          "quote": "The entire team made my kids feel at ease from the moment we walked in. It's the first dentist visit they've actually looked forward to.",
+          "name": "Maria Chen",
+          "role": "Parent of two patients"
+        },
+        "1": {
+          "quote": "I used to dread the dentist, but Lumen's calm space and gentle approach completely changed that. Booking online was effortless too.",
+          "name": "David Okafor",
+          "role": "Long-time patient"
+        },
+        "2": {
+          "quote": "From the warm front desk staff to the thorough care from Dr. Patel, every visit feels unhurried and genuinely personal.",
+          "name": "Sophie Bennett",
+          "role": "New patient"
+        }
+      }
+    },
+    "cta": {
+      "title": "Your Brighter Smile Starts Here",
+      "subtitle": "Book online in minutes and join thousands of families who trust Lumen Dental for calm, caring treatment.",
+      "button": "Book Now"
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Our Services",
+      "title": "Dental Care Designed Around You",
+      "subtitle": "From routine checkups to confident smile makeovers, Lumen Dental offers calm, modern care for every member of your family."
+    },
+    "items": {
+      "0": {
+        "name": "Comprehensive Checkup & Cleaning",
+        "description": "A gentle exam, professional cleaning, and digital scans to keep your smile healthy and catch issues early.",
+        "duration": "45 min",
+        "price": "From $110"
+      },
+      "1": {
+        "name": "Teeth Whitening",
+        "description": "Brighten your smile several shades in one visit with our safe, enamel-friendly whitening treatment.",
+        "duration": "60 min",
+        "price": "From $249"
+      },
+      "2": {
+        "name": "Invisalign & Clear Aligners",
+        "description": "Straighten your teeth discreetly with custom clear aligners designed for comfort and real-life schedules.",
+        "duration": "30 min consult",
+        "price": "From $3,200"
+      },
+      "3": {
+        "name": "Porcelain Veneers",
+        "description": "Reshape chips, gaps, and discoloration with ultra-thin veneers crafted to look naturally yours.",
+        "duration": "2 visits",
+        "price": "From $890 per tooth"
+      },
+      "4": {
+        "name": "Dental Implants",
+        "description": "A permanent, natural-feeling replacement for missing teeth, placed with precision and minimal downtime.",
+        "duration": "90 min",
+        "price": "From $2,400"
+      },
+      "5": {
+        "name": "Root Canal Therapy",
+        "description": "Relieve pain and save your natural tooth with gentle, modern root canal treatment.",
+        "duration": "75 min",
+        "price": "From $780"
+      },
+      "6": {
+        "name": "Pediatric Dentistry",
+        "description": "Friendly, patient care for little smiles, from first visits to cavity prevention and sealants.",
+        "duration": "30 min",
+        "price": "From $85"
+      },
+      "7": {
+        "name": "Emergency Dental Care",
+        "description": "Same-day relief for toothaches, breaks, and unexpected dental emergencies, no matter when they strike.",
+        "duration": "Varies",
+        "price": "From $95"
+      }
+    },
+    "faq": {
+      "eyebrow": "Questions Answered",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know before your visit to Lumen Dental.",
+      "items": {
+        "0": {
+          "question": "Do you accept dental insurance?",
+          "answer": "Yes, we work with most major insurance providers and will help you maximize your benefits. We also offer flexible payment plans for treatments not fully covered."
+        },
+        "1": {
+          "question": "How do I book an appointment online?",
+          "answer": "Simply visit our booking page, choose your preferred service and time slot, and you'll receive instant confirmation along with reminders before your visit."
+        },
+        "2": {
+          "question": "What should I expect at my first visit?",
+          "answer": "Your first visit includes a comprehensive exam, digital X-rays if needed, and a relaxed conversation about your dental history and goals before we recommend any treatment."
+        },
+        "3": {
+          "question": "Are your services suitable for children?",
+          "answer": "Absolutely. Our team specializes in gentle, friendly pediatric care designed to make kids feel comfortable from their very first appointment."
+        },
+        "4": {
+          "question": "How long does teeth whitening last?",
+          "answer": "Results typically last 6 to 12 months depending on your diet and oral care habits. We'll share simple tips to help your results last longer."
+        },
+        "5": {
+          "question": "Do you offer emergency appointments?",
+          "answer": "Yes, we reserve same-day slots for dental emergencies. Call our office directly and our team will get you in as quickly as possible."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready for a Healthier Smile?",
+      "subtitle": "Book your appointment online in minutes and experience calm, modern dental care at Lumen Dental.",
+      "button": "Book Now"
+    }
+  },
+  "team": {
+    "hero": {
+      "eyebrow": "Meet Our Team",
+      "title": "The Smiles Behind Your Smile",
+      "subtitle": "Our dentists and care team combine gentle expertise with genuine warmth to make every visit comfortable."
+    },
+    "members": {
+      "0": {
+        "name": "Dr. Sarah Bennett",
+        "role": "Lead Dentist & Founder",
+        "bio": "With over 15 years of experience, Dr. Bennett blends clinical precision with a calming chairside manner."
+      },
+      "1": {
+        "name": "Dr. Marcus Chen",
+        "role": "Cosmetic & Restorative Dentist",
+        "bio": "Dr. Chen specializes in smile makeovers, helping patients feel confident with natural-looking results."
+      },
+      "2": {
+        "name": "Dr. Priya Nair",
+        "role": "Pediatric Dentist",
+        "bio": "Dr. Nair has a gift for putting young patients at ease during their very first dental visits."
+      },
+      "3": {
+        "name": "Dr. Omar Hassan",
+        "role": "Orthodontist",
+        "bio": "Dr. Hassan designs personalized alignment plans using the latest in clear aligner technology."
+      },
+      "4": {
+        "name": "Jessica Lee",
+        "role": "Dental Hygienist",
+        "bio": "Jessica's thorough, gentle cleanings leave patients feeling refreshed and well cared for."
+      },
+      "5": {
+        "name": "Amanda Torres",
+        "role": "Patient Care Coordinator",
+        "bio": "Amanda is the friendly voice who helps you schedule visits and navigate insurance with ease."
+      },
+      "6": {
+        "name": "Dr. Lily Park",
+        "role": "Associate Dentist",
+        "bio": "Dr. Park focuses on preventive care, partnering with patients to build lifelong healthy habits."
+      }
+    },
+    "cta": {
+      "title": "Ready to Meet Us in Person?",
+      "subtitle": "Book your visit today and experience dental care that feels like family.",
+      "button": "Book Now"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About Lumen Dental",
+      "title": "Dentistry that feels like daylight",
+      "subtitle": "We blend gentle, modern care with genuine warmth so every visit feels calm, easy, and even enjoyable."
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraphs": {
+        "0": "Lumen Dental began with a simple idea: dental visits shouldn't feel clinical and cold. Our founders set out to design a practice where natural light, soft textures, and unhurried conversations replace the sterile hum most people associate with the dentist's chair.",
+        "1": "Today, Lumen is a home for families across the city who want honest, modern dental care without the anxiety. From a child's first cleaning to a parent's restorative work, we treat every visit as a chance to build trust, not just fix teeth.",
+        "2": "We invested in the latest digital imaging and gentle techniques, but what really sets us apart is how our team listens first and explains everything clearly, so you always know what's happening and why."
+      }
+    },
+    "values": {
+      "eyebrow": "What We Stand For",
+      "title": "The values behind every appointment",
+      "subtitle": "These principles guide how we treat patients, not just teeth.",
+      "items": {
+        "0": {
+          "title": "Patient-First Care",
+          "description": "Every treatment plan is built around your comfort, goals, and schedule, never a one-size-fits-all approach."
+        },
+        "1": {
+          "title": "Radical Transparency",
+          "description": "Clear explanations and upfront pricing mean no surprises, just honest guidance you can trust."
+        },
+        "2": {
+          "title": "Gentle by Design",
+          "description": "From calming decor to soft-touch techniques, we reduce anxiety at every step of your visit."
+        },
+        "3": {
+          "title": "Modern Expertise",
+          "description": "We invest in current technology and ongoing training so your care reflects the best of today's dentistry."
+        },
+        "4": {
+          "title": "Family Focused",
+          "description": "From toddlers to grandparents, our team is trained to make every generation feel welcome and at ease."
+        },
+        "5": {
+          "title": "Community Minded",
+          "description": "We support local schools and health initiatives because healthy smiles start outside the clinic too."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "15k+",
+        "label": "Patients cared for"
+      },
+      "1": {
+        "value": "4.9/5",
+        "label": "Average patient rating"
+      },
+      "2": {
+        "value": "12",
+        "label": "Years serving the community"
+      },
+      "3": {
+        "value": "98%",
+        "label": "Patients who return"
+      }
+    },
+    "cta": {
+      "title": "Ready to see the Lumen difference?",
+      "subtitle": "Book your first visit and experience dental care that puts you at ease.",
+      "button": "Book Appointment"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Get In Touch",
+      "title": "We'd Love to See You Smile",
+      "subtitle": "Questions, booking requests, or just want to say hello — our friendly team is here to help."
+    },
+    "form": {
+      "nameLabel": "Full Name",
+      "emailLabel": "Email Address",
+      "messageLabel": "How can we help?",
+      "submitLabel": "Send Message",
+      "successMessage": "Thanks for reaching out! A member of our team will get back to you within one business day.",
+      "details": {
+        "0": {
+          "label": "Address",
+          "value": "214 Maple Grove Avenue, Suite 2, Brookhaven, NY 11719"
+        },
+        "1": {
+          "label": "Phone",
+          "value": "(631) 555-0148"
+        },
+        "2": {
+          "label": "Email",
+          "value": "hello@lumendentalcare.com"
+        },
+        "3": {
+          "label": "Hours",
+          "value": "Mon–Thu 8am–6pm · Fri 8am–3pm · Sat 9am–1pm"
+        }
+      }
+    }
+  }
+}

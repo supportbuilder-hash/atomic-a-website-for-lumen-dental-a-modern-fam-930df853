@@ -1,0 +1,414 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "team": "Equipo",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "reviews": "Reseñas"
+  },
+  "cta": {
+    "primary": "Reservar Cita"
+  },
+  "footer": {
+    "tagline": "Odontología familiar moderna, cuidada con un toque delicado",
+    "rights": "Todos los derechos reservados."
+  },
+  "reviewsPage": {
+    "hero": {
+      "eyebrow": "Historias de Pacientes",
+      "title": "Reseñas de",
+      "titleAccent": "nuestra familia Lumen",
+      "subtitle": "Comentarios reales de pacientes que confiaron en nosotros con sus sonrisas, desde limpiezas iniciales hasta transformaciones completas de sonrisa.",
+      "ratingLine": "Promedio de {rating} de {count} pacientes verificados"
+    },
+    "ratingsSummary": {
+      "eyebrow": "Calificación General",
+      "summary": "Basado en {count} reseñas verificadas recopiladas después de cada visita, en limpiezas, trabajos cosméticos y cuidado familiar.",
+      "starsLabel": "{stars} estrella"
+    },
+    "testimonials": {
+      "eyebrow": "Lo Que Dicen los Pacientes",
+      "title": "Palabras amables de cada silla de la oficina",
+      "subtitle": "Desde primeras visitas nerviosas hasta sonrisas nuevas y confiadas, así es como nuestros pacientes describen su tiempo con nosotros.",
+      "items": [
+        {
+          "quote": "I used to dread dentist visits and now I actually look forward to them. The team explains everything and never rushes you.",
+          "name": "Maria Gonzalez",
+          "service": "Routine Cleaning",
+          "rating": 5,
+          "date": "March 2024"
+        },
+        {
+          "quote": "My son has sensory sensitivities and the hygienist was so patient with him. First cleaning without a single tear.",
+          "name": "David Chen",
+          "service": "Pediatric Care",
+          "rating": 5,
+          "date": "January 2024"
+        },
+        {
+          "quote": "Got my veneers done here and the result looks completely natural. Dr. Patel walked me through every option first.",
+          "name": "Amelia Novak",
+          "service": "Cosmetic Veneers",
+          "rating": 5,
+          "date": "November 2023"
+        },
+        {
+          "quote": "Needed an emergency root canal on a Saturday and they fit me in within two hours. Pain-free and genuinely kind staff.",
+          "name": "James O'Rourke",
+          "service": "Emergency Root Canal",
+          "rating": 5,
+          "date": "February 2024"
+        },
+        {
+          "quote": "The online booking is so easy and reminders are helpful. Appointments actually start on time, which is rare.",
+          "name": "Priya Nair",
+          "service": "Teeth Whitening",
+          "rating": 4,
+          "date": "December 2023"
+        },
+        {
+          "quote": "Invisalign consult was thorough with no pressure to upsell. Eighteen months later my smile is exactly what we planned.",
+          "name": "Tomas Alvarez",
+          "service": "Invisalign",
+          "rating": 5,
+          "date": "April 2024"
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para ver por qué los pacientes siguen regresando?",
+      "subtitle": "Reserva tu visita en línea en menos de dos minutos y únete a cientos de sonrisas felices en Lumen Dental.",
+      "primaryButton": "Reservar una cita",
+      "secondaryButton": "Hazme una pregunta"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Odontología Familiar Moderna",
+      "title": "Cuidado Dental Que Se Siente Como Luz Natural",
+      "subtitle": "Lumen Dental combina cuidado moderno y delicado con un espacio tranquilo y acogedor para cada miembro de tu familia, desde los primeros dientes hasta los años dorados.",
+      "cta": "Reservar una Cita",
+      "secondaryCta": "Explorar Servicios"
+    },
+    "services": {
+      "eyebrow": "Lo Que Ofrecemos",
+      "title": "Cuidado Integral, Una Visita Delicada a la Vez",
+      "subtitle": "Desde revisiones de rutina hasta transformaciones completas de sonrisa, nuestro equipo cubre cada etapa de tu salud dental.",
+      "items": {
+        "0": {
+          "title": "Revisiones Generales y Limpiezas",
+          "description": "Exámenes exhaustivos y limpiezas delicadas para mantener tu sonrisa saludable todo el año."
+        },
+        "1": {
+          "title": "Odontología Cosmética",
+          "description": "Blanqueamiento, carillas y adhesivos diseñados para darte una sonrisa que te encante compartir."
+        },
+        "2": {
+          "title": "Ortodoncia",
+          "description": "Brackets tradicionales y alineadores transparentes para sonrisas confiadas y alineadas a cualquier edad."
+        },
+        "3": {
+          "title": "Odontología Pediátrica",
+          "description": "Cuidado amable y paciente que ayuda a los niños a desarrollar hábitos positivos desde el principio."
+        },
+        "4": {
+          "title": "Cuidado Restaurador",
+          "description": "Coronas, puentes e implantes que restauran la función y una apariencia natural."
+        },
+        "5": {
+          "title": "Odontología de Emergencia",
+          "description": "Atención rápida y compasiva cuando el dolor inesperado o una lesión no pueden esperar."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "15k+",
+        "label": "Pacientes Satisfechos"
+      },
+      "1": {
+        "value": "4.9/5",
+        "label": "Calificación Promedio"
+      },
+      "2": {
+        "value": "20+",
+        "label": "Años Sirviendo Familias"
+      },
+      "3": {
+        "value": "98%",
+        "label": "Puntuación de Comodidad del Paciente"
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Historias de Pacientes",
+      "title": "Sonrisas de las que Estamos Orgullosos de Haber Ayudado",
+      "subtitle": "Escucha a las familias e individuos que confían en Lumen Dental para su cuidado.",
+      "items": {
+        "0": {
+          "quote": "Todo el equipo hizo que mis hijos se sintieran cómodos desde el momento en que entramos. Es la primera visita al dentista que realmente esperan.",
+          "name": "Maria Chen",
+          "role": "Madre de dos pacientes"
+        },
+        "1": {
+          "quote": "Solía tener miedo al dentista, pero el espacio tranquilo y el enfoque gentil de Lumen cambió completamente eso. Reservar en línea fue muy fácil también.",
+          "name": "David Okafor",
+          "role": "Paciente de largo plazo"
+        },
+        "2": {
+          "quote": "Desde el cálido personal de recepción hasta la atención minuciosa de la Dra. Patel, cada visita se siente sin prisa y genuinamente personal.",
+          "name": "Sophie Bennett",
+          "role": "Paciente nuevo"
+        }
+      }
+    },
+    "cta": {
+      "title": "Tu Sonrisa Más Brillante Comienza Aquí",
+      "subtitle": "Reserva en línea en minutos y únete a miles de familias que confían en Lumen Dental para un tratamiento tranquilo y compasivo.",
+      "button": "Reservar Ahora"
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Nuestros Servicios",
+      "title": "Cuidado Dental Diseñado Para Ti",
+      "subtitle": "Desde chequeos de rutina hasta transformaciones de sonrisa confiadas, Lumen Dental ofrece cuidado tranquilo y moderno para cada miembro de tu familia."
+    },
+    "items": {
+      "0": {
+        "name": "Chequeo Integral y Limpieza",
+        "description": "Un examen gentil, limpieza profesional y escaneos digitales para mantener tu sonrisa saludable y detectar problemas temprano.",
+        "duration": "45 min",
+        "price": "Desde $110"
+      },
+      "1": {
+        "name": "Blanqueamiento de Dientes",
+        "description": "Ilumina tu sonrisa varios tonos en una sola visita con nuestro tratamiento de blanqueamiento seguro y amigable con el esmalte.",
+        "duration": "60 min",
+        "price": "Desde $249"
+      },
+      "2": {
+        "name": "Invisalign y Alineadores Transparentes",
+        "description": "Endereza tus dientes discretamente con alineadores transparentes personalizados diseñados para comodidad y horarios de la vida real.",
+        "duration": "Consulta de 30 min",
+        "price": "Desde $3,200"
+      },
+      "3": {
+        "name": "Carillas de Porcelana",
+        "description": "Remodela astillas, espacios y decoloración con carillas ultrafinas diseñadas para verse naturalmente tuyas.",
+        "duration": "2 visitas",
+        "price": "Desde $890 por diente"
+      },
+      "4": {
+        "name": "Implantes Dentales",
+        "description": "Un reemplazo permanente y natural para dientes faltantes, colocado con precisión y tiempo de inactividad mínimo.",
+        "duration": "90 min",
+        "price": "Desde $2,400"
+      },
+      "5": {
+        "name": "Tratamiento de Conducto",
+        "description": "Alivia el dolor y salva tu diente natural con un tratamiento de conducto moderno y delicado.",
+        "duration": "75 min",
+        "price": "Desde $780"
+      },
+      "6": {
+        "name": "Odontología Pediátrica",
+        "description": "Atención amable y paciente para las sonrisas pequeñas, desde las primeras visitas hasta la prevención de caries y selladores.",
+        "duration": "30 min",
+        "price": "Desde $85"
+      },
+      "7": {
+        "name": "Atención Dental de Emergencia",
+        "description": "Alivio el mismo día para dolores de muelas, fracturas y emergencias dentales inesperadas, sin importar cuándo ocurran.",
+        "duration": "Varía",
+        "price": "Desde $95"
+      }
+    },
+    "faq": {
+      "eyebrow": "Preguntas Respondidas",
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Todo lo que necesitas saber antes de tu visita a Lumen Dental.",
+      "items": {
+        "0": {
+          "question": "¿Aceptan seguros dentales?",
+          "answer": "Sí, trabajamos con la mayoría de proveedores de seguros principales y te ayudaremos a maximizar tus beneficios. También ofrecemos planes de pago flexibles para tratamientos no cubiertos completamente."
+        },
+        "1": {
+          "question": "¿Cómo reservo una cita en línea?",
+          "answer": "Simplemente visita nuestra página de reservas, elige tu servicio y horario preferido, y recibirás confirmación instantánea junto con recordatorios antes de tu visita."
+        },
+        "2": {
+          "question": "¿Qué debo esperar en mi primera visita?",
+          "answer": "Tu primera visita incluye un examen completo, radiografías digitales si es necesario, y una conversación relajada sobre tu historial dental y objetivos antes de recomendar cualquier tratamiento."
+        },
+        "3": {
+          "question": "¿Sus servicios son adecuados para niños?",
+          "answer": "Absolutamente. Nuestro equipo se especializa en atención pediátrica amable y delicada diseñada para que los niños se sientan cómodos desde su primera cita."
+        },
+        "4": {
+          "question": "¿Cuánto tiempo duran los resultados del blanqueamiento dental?",
+          "answer": "Los resultados típicamente duran de 6 a 12 meses dependiendo de tu dieta y hábitos de higiene oral. Compartiremos consejos simples para ayudarte a que los resultados duren más."
+        },
+        "5": {
+          "question": "¿Ofrecen citas de emergencia?",
+          "answer": "Sí, reservamos espacios el mismo día para emergencias dentales. Llama directamente a nuestra oficina y nuestro equipo te atenderá lo antes posible."
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Listo para una Sonrisa Más Saludable?",
+      "subtitle": "Reserva tu cita en línea en minutos y experimenta atención dental tranquila y moderna en Lumen Dental.",
+      "button": "Reservar Ahora"
+    }
+  },
+  "team": {
+    "hero": {
+      "eyebrow": "Conoce Nuestro Equipo",
+      "title": "Las Sonrisas Detrás de Tu Sonrisa",
+      "subtitle": "Nuestros dentistas y equipo de atención combinan experiencia gentil con calidez genuina para hacer cada visita cómoda."
+    },
+    "members": {
+      "0": {
+        "name": "Dra. Sarah Bennett",
+        "role": "Dentista Principal y Fundadora",
+        "bio": "Con más de 15 años de experiencia, la Dra. Bennett combina precisión clínica con un trato tranquilizador al sillón."
+      },
+      "1": {
+        "name": "Dr. Marcus Chen",
+        "role": "Dentista Cosmético y Restaurador",
+        "bio": "El Dr. Chen se especializa en cambios de sonrisa, ayudando a los pacientes a sentirse seguros con resultados naturales."
+      },
+      "2": {
+        "name": "Dra. Priya Nair",
+        "role": "Dentista Pediátrica",
+        "bio": "La Dra. Nair tiene el don de tranquilizar a los pacientes jóvenes durante sus primeras visitas dentales."
+      },
+      "3": {
+        "name": "Dr. Omar Hassan",
+        "role": "Ortodoncista",
+        "bio": "El Dr. Hassan diseña planes de alineación personalizados utilizando la última tecnología de alineadores transparentes."
+      },
+      "4": {
+        "name": "Jessica Lee",
+        "role": "Higienista Dental",
+        "bio": "Las limpiezas minuciosas y gentiles de Jessica dejan a los pacientes sintiéndose renovados y bien cuidados."
+      },
+      "5": {
+        "name": "Amanda Torres",
+        "role": "Coordinadora de Atención al Paciente",
+        "bio": "Amanda es la voz amable que te ayuda a programar citas y navegar el seguro con facilidad."
+      },
+      "6": {
+        "name": "Dra. Lily Park",
+        "role": "Dentista Asociada",
+        "bio": "La Dra. Park se enfoca en atención preventiva, asociándose con los pacientes para construir hábitos saludables de por vida."
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Conocernos en Persona?",
+      "subtitle": "Reserva tu visita hoy y experimenta atención dental que se sienta como familia.",
+      "button": "Reservar Ahora"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Acerca de Lumen Dental",
+      "title": "Odontología que se siente como luz natural",
+      "subtitle": "Combinamos atención gentil y moderna con calidez genuina para que cada visita se sienta tranquila, fácil e incluso agradable."
+    },
+    "story": {
+      "title": "Nuestra Historia",
+      "paragraphs": {
+        "0": "Lumen Dental comenzó con una idea simple: las visitas dentales no deberían sentirse clínicas y frías. Nuestros fundadores se propusieron diseñar una práctica donde la luz natural, texturas suaves y conversaciones sin prisa reemplacen el zumbido estéril que la mayoría asocia con el sillón dental.",
+        "1": "Hoy, Lumen es un hogar para familias en toda la ciudad que desean atención dental honesta y moderna sin ansiedad. Desde la primera limpieza de un niño hasta el trabajo restaurador de un padre, tratamos cada visita como una oportunidad para construir confianza, no solo arreglar dientes.",
+        "2": "Invertimos en las últimas técnicas de imágenes digitales y procedimientos gentiles, pero lo que realmente nos diferencia es cómo nuestro equipo escucha primero y explica todo claramente, para que siempre sepas qué está pasando y por qué."
+      }
+    },
+    "values": {
+      "eyebrow": "En Qué Creemos",
+      "title": "Los valores detrás de cada cita",
+      "subtitle": "Estos principios guían cómo tratamos a los pacientes, no solo los dientes.",
+      "items": {
+        "0": {
+          "title": "Atención Centrada en el Paciente",
+          "description": "Cada plan de tratamiento se construye alrededor de tu comodidad, objetivos y horario, nunca un enfoque de talla única."
+        },
+        "1": {
+          "title": "Transparencia Radical",
+          "description": "Explicaciones claras y precios transparentes significan sin sorpresas, solo orientación honesta en la que puedes confiar."
+        },
+        "2": {
+          "title": "Diseño Amable",
+          "description": "Desde decoración relajante hasta técnicas delicadas, reducimos la ansiedad en cada paso de tu visita."
+        },
+        "3": {
+          "title": "Experiencia Moderna",
+          "description": "Invertimos en tecnología actual y capacitación continua para que tu cuidado refleje lo mejor de la odontología actual."
+        },
+        "4": {
+          "title": "Enfoque Familiar",
+          "description": "Desde niños pequeños hasta abuelos, nuestro equipo está capacitado para que cada generación se sienta bienvenida y cómoda."
+        },
+        "5": {
+          "title": "Mentalidad Comunitaria",
+          "description": "Apoyamos escuelas locales e iniciativas de salud porque las sonrisas saludables comienzan fuera de la clínica también."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "15k+",
+        "label": "Pacientes atendidos"
+      },
+      "1": {
+        "value": "4.9/5",
+        "label": "Calificación promedio de pacientes"
+      },
+      "2": {
+        "value": "12",
+        "label": "Años sirviendo a la comunidad"
+      },
+      "3": {
+        "value": "98%",
+        "label": "Pacientes que regresan"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para ver la diferencia Lumen?",
+      "subtitle": "Reserva tu primera visita y experimenta cuidado dental que te ponga cómodo.",
+      "button": "Reservar Cita"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Ponte en Contacto",
+      "title": "Nos Encantaría Ver Tu Sonrisa",
+      "subtitle": "Preguntas, solicitudes de reserva o simplemente quieres saludar — nuestro equipo amable está aquí para ayudarte."
+    },
+    "form": {
+      "nameLabel": "Nombre Completo",
+      "emailLabel": "Correo Electrónico",
+      "messageLabel": "¿Cómo podemos ayudarte?",
+      "submitLabel": "Enviar Mensaje",
+      "successMessage": "¡Gracias por comunicarte! Un miembro de nuestro equipo se pondrá en contacto contigo dentro de un día hábil.",
+      "details": {
+        "0": {
+          "label": "Dirección",
+          "value": "214 Maple Grove Avenue, Suite 2, Brookhaven, NY 11719"
+        },
+        "1": {
+          "label": "Teléfono",
+          "value": "(631) 555-0148"
+        },
+        "2": {
+          "label": "Correo Electrónico",
+          "value": "hello@lumendentalcare.com"
+        },
+        "3": {
+          "label": "Horario",
+          "value": "Lun–Jue 8am–6pm · Vie 8am–3pm · Sáb 9am–1pm"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "home": {
+    "variant": "a",
+    "images": {
+      "hero": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/610b223662e243ea9368c9cdff338dbe.jpg"
+    }
+  },
+  "services": {
+    "variant": "a",
+    "images": {
+      "items.0": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/cee183188bb341a2b1659c65e40c4a62.jpg",
+      "items.1": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/45ae5a819e2f4ebb86081572f747632f.jpg",
+      "items.2": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/eeecd065238e4c1982dcb174e3f8fbe5.jpg",
+      "items.3": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/89e33fb662fb448c9b39f603e8a50566.jpg",
+      "items.4": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/bedbc75ff1754065adb49727f08ca476.jpg",
+      "items.5": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/6fd24a8ebaeb42989e2bec2329bb4a3c.jpg",
+      "items.6": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/5aaa8bf6f122451c8bf1c2f818a531a6.jpg",
+      "items.7": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/376e69a55ea0424db1fbca88386d5e02.jpg"
+    }
+  },
+  "team": {
+    "variant": "c",
+    "images": {
+      "members.0": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/5f1ba29dba7048f693681ccd0c9936e4.jpg",
+      "members.1": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/55a7fa98d372455fa3f2f2961753385d.jpg",
+      "members.2": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/7f8ee2ea94834d589fab9139171aa884.jpg",
+      "members.3": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/622870a011c3434e818156d1ff462b2a.jpg",
+      "members.4": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d46bc1ab9d634c5a977e927339911762.jpg",
+      "members.5": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/8ace5ce015604b079533687f9b69217f.jpg",
+      "members.6": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/5df16b14c0534d85af6df3dc17e370ee.jpg"
+    }
+  },
+  "about": {
+    "variant": "b",
+    "images": {
+      "hero": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b120d33081174123be319dd0e621388e.jpg"
+    }
+  },
+  "contact": {
+    "variant": "a"
+  }
+}
