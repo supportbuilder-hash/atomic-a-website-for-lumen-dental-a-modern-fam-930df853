@@ -33,6 +33,9 @@ export default function HomePage() {
         image={heroImage}
         variant={l.hero}
       />
+      <p className="mx-auto max-w-2xl px-6 pb-10 text-center text-base font-medium text-primary md:text-lg">
+        {t("hero.reassurance")}
+      </p>
       <FeatureGrid
         eyebrow={t("services.eyebrow")}
         title={t("services.title")}
